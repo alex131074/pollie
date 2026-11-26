@@ -1,2 +1,0 @@
-# pollie
-Сайт: Pollie
